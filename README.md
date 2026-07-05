@@ -83,6 +83,7 @@
 - [PayPal](https://www.paypal.com/) — 覆盖全球 200 多个国家和地区的数字钱包,买家信任度高,独立站标配收款方式。
 - [Airwallex 空中云汇](https://www.airwallex.com/) — 多币种账户与全球收付,本地支付方式多、汇率点差更优,适合出海回款。
 - [Payoneer](https://www.payoneer.com/) — 跨境收款老牌平台,平台卖家(Amazon/eBay 等)与 B2B 收款常用。
+- [Wise Business](https://wise.com/business/) — 企业多币种账户,支持本地收款信息、批量付款和团队卡片,适合支付海外供应商与远程团队。
 - [LianLian Global 连连国际](https://global.lianlianpay.com/) — 跨境收款与本地化支付服务,支持多平台与独立站回款。
 - [PingPong](https://www.pingpongx.com/) — 跨境收款与供应链金融,费率有竞争力,适合中小卖家。
 - [Checkout.com](https://www.checkout.com/) — 企业级全球收单平台,本地支付覆盖广,适合规模化出海品牌。
@@ -100,11 +101,12 @@
 
 ## 📢 出海营销与海外社媒投放
 
-品牌认知靠 Meta/TikTok 种草,搜索转化靠 Google,做出海营销绕不开三大平台与配套工具。
+品牌认知靠 Meta/TikTok 种草,搜索转化靠 Google,自建站之外也可用 marketplace 做渠道补充。
 
 - [Meta Business / Ads Manager](https://business.facebook.com/) — Facebook/Instagram 广告投放与管理,Advantage+ 自动化适合品牌投放与再营销。
 - [TikTok for Business](https://www.tiktok.com/business/) — TikTok 广告与 TikTok Shop 入口,短视频种草 + 直播带货,增长最快的出海渠道之一。
 - [Google Ads](https://ads.google.com/) — 搜索/购物/Performance Max 广告,承接前端流量、做精准转化的搜索王者。
+- [Amazon Global Selling](https://sell.amazon.com/global-selling) — 亚马逊全球开店官方资源,适合用 marketplace 验证市场、拓展站外销售渠道。
 - [Meta Ads Library](https://www.facebook.com/ads/library/) — 免费查看在投广告素材,竞品分析与创意灵感来源。
 - [TikTok Creative Center](https://ads.tiktok.com/business/creativecenter/) — 官方创意洞察平台,看爆款视频、热门音乐与趋势标签。
 - [Google Trends](https://trends.google.com/) — 免费搜索热度趋势工具,识别季节性与爆发需求,辅助选品与内容规划。
@@ -152,7 +154,9 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 - [Avalara](https://www.avalara.com/) — 自动化税务合规平台,实时计算并申报 VAT/销售税,覆盖多国税率。
 - [TaxJar](https://www.taxjar.com/) — 美国销售税自动计算与申报工具,适合做美国市场的卖家。
 - [Stripe Tax](https://stripe.com/tax) — Stripe 内置税费自动计算与申报,适配 DTC 订阅与一次性收款。
+- [Stripe Atlas](https://stripe.com/atlas) — 面向全球创业者的美国公司设立工具,可处理 Delaware 公司、EIN 与基础法律文档。
 - [Usercentrics](https://usercentrics.com/) — 同意管理平台(CMP),自动展示 Cookie Banner,满足 GDPR 合规。
+- [OneTrust](https://www.onetrust.com/) — 企业级隐私、同意管理、第三方风险与 AI 治理平台,适合多市场合规要求更高的团队。
 - [GDPR 官方信息站](https://gdpr.eu/) — 欧盟《通用数据保护条例》解读站,了解数据收集与隐私的基本红线。
 - [Termly](https://termly.io/) — 在线生成隐私政策/Cookie 政策/服务条款,适合独立站快速配齐合规文档。
 
@@ -188,6 +192,7 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 - [Anker 安克创新](https://www.anker.com/) — 消费电子出海典范,境外营收占比高,多品牌矩阵覆盖众多国家和地区。
 - [EcoFlow 正浩](https://www.ecoflow.com/) — 便携储能出海代表,靠众筹快速验证市场 + 独立站高增长。
 - [商务部研究院(CAITEC)](https://www.caitec.org.cn/) — 商务部国际贸易经济合作研究院,可查对外贸易、品牌出海相关的官方研究报告。
+- [DataReportal](https://datareportal.com/) — 免费全球数字报告库,覆盖各国互联网、社媒、电商与数字营销趋势,适合做目标市场判断。
 
 ---
 
