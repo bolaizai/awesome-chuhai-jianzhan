@@ -1,6 +1,6 @@
 # 出海建站与品牌出海资源大全 | Awesome China Brand Going Global
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) [![Stars](https://img.shields.io/github/stars/sasharun/awesome-chuhai-jianzhan?style=social)](https://github.com/sasharun/awesome-chuhai-jianzhan)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) [![Stars](https://img.shields.io/github/stars/sasharun/awesome-chuhai-jianzhan?style=social)](https://github.com/sasharun/awesome-chuhai-jianzhan) ![Last update](https://img.shields.io/badge/last%20update-2026--07-blue.svg)
 
 > 一份面向**品牌出海 / 企业出海 / DTC 出海**团队与老板的精选资源清单。从**出海建站**方案、海外支付(Stripe / PayPal)与跨境物流,到**出海营销**、海外社媒投放、选品供应链、合规税务、本地化多语言,再到出海媒体、社区与工具栈——把中国品牌出海全链路要用到的工具、平台、教程、服务商与真实案例,系统整理成一份长期更新的清单。无论你做独立站出海、跨境电商,还是中国品牌全球化(China brand going global),都能在这里快速找到可用的资源。
 
@@ -24,6 +24,19 @@
 
 ---
 
+## ⚡ 出海路径速查（先选赛道）
+
+| 路径 | 适合 | 建站重心 | 流量重心 |
+|------|------|----------|----------|
+| **DTC 独立站** | 自有品牌、控体验 | Shopify / Headless | Meta/TikTok 测品 + Google + 邮件 |
+| **B2B 询盘站** | 工厂/外贸、要线索 | Next.js / WP 询盘站 | Google SEO + LinkedIn + 展会 |
+| **平台 + 站** | 先放量再品牌 | 平台店 + 轻官网 | Amazon/TikTok Shop + 品牌站承接 |
+| **内容种草出海** | 红人/短视频驱动 | 轻站 + 落地页 | TikTok/IG/YouTube + 红人 |
+
+开源配套：[Next.js 外贸询盘 Starter](https://github.com/sasharun/nextjs-export-starter) · [询盘转化清单](https://github.com/sasharun/dulizhan-inquiry-checklist) · [外贸独立站清单](https://github.com/sasharun/awesome-waimao-dulizhan)
+
+---
+
 ## 📑 目录
 
 - [📮 关于 & 建站服务](#-关于--建站服务)
@@ -40,6 +53,7 @@
 - [📰 出海媒体、社区与资讯](#-出海媒体社区与资讯)
 - [📊 行业报告与品牌出海案例](#-行业报告与品牌出海案例)
 - [❓ 常见问题(FAQ)](#-常见问题faq)
+- [🧰 补充资源包](#-补充资源包)
 - [🔗 相关清单](#-相关清单)
 - [🤝 贡献](#-贡献)
 - [📈 Star History](#-star-history)
@@ -77,6 +91,8 @@
 
 ## 💳 海外支付与收款
 
+除卡组与钱包外，**BNPL（先买后付）** 在欧美 DTC 转化里越来越常见（Klarna / Afterpay 等，按品类与主体开通）。
+
 海外收款是出海建站的关键环节,通常 Stripe 主收单 + PayPal 辅助,搭配多币种资金管理工具回款。
 
 - [Stripe](https://stripe.com/) — 技术型收单首选,支持上百种货币、API 深度定制与订阅计费,DTC/SaaS 出海主力。
@@ -100,6 +116,8 @@
 - [顺丰国际 SF International](https://www.sf-international.com/) — 国际快递与跨境物流,时效与清关相对稳定。
 
 ## 📢 出海营销与海外社媒投放
+
+- [Google Merchant Center](https://www.google.com/retail/solutions/merchant-center/) — 商品数据源，Shopping / 免费商品列表必备。
 
 品牌认知靠 Meta/TikTok 种草,搜索转化靠 Google,自建站之外也可用 marketplace 做渠道补充。
 
@@ -137,6 +155,10 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 - [Intercom](https://www.intercom.com/) — 在线客服与对话式营销工具,适合需要实时沟通的出海站。
 
 ## 🧭 选品与供应链
+
+- [Amazon Seller Central](https://sellercentral.amazon.com/) — 亚马逊全球开店入口（美/欧/日等站点）。
+- [TikTok Shop 卖家中心](https://seller.tiktokglobalshop.com/) — 短视频电商开店（区域以官方开放为准）。
+- [Temu 卖家入驻](https://seller.temu.com/) — 全托管/半托管铺货（注意品牌与利润模型）。
 
 用数据选品 + 管好供应链,是出海"卖什么、怎么备货"的基础。
 
@@ -232,7 +254,30 @@ KOL / 微网红的真实内容与 UGC,是建立海外信任、提升转化的重
 
 ---
 
+## 🧰 补充资源包
+
+### 官方 / 稳定资源
+
+- [Shopify Dev Docs](https://shopify.dev/docs) — 品牌站、应用、主题和 Headless 改造的官方能力边界。
+- [Google 电商站最佳实践](https://developers.google.com/search/docs/specialty/ecommerce) — 商品数据、站点结构、分页和上线节奏的官方 SEO 建议。
+- [TikTok Ads Help Center](https://ads.tiktok.com/help/) — 出海投放、Shop Ads、Lead Ads 和归因设置的官方参考。
+- [W3C WCAG Quick Reference](https://www.w3.org/WAI/WCAG22/quickref/) — 做欧美市场时，落地页和表单的可访问性验收建议纳入流程。
+
+### 可复制模板
+
+| 模板 | 直接复制的字段 |
+|---|---|
+| 市场启动表 | 目标国家、主语言、货币、支付方式、物流方案、竞品、客单价、首月预算 |
+| 渠道组合表 | 渠道、目标、预算、素材类型、落地页、KPI、归因方式、复盘周期 |
+| 本地化检查 | 语言、货币、尺码/单位、物流时效、退换政策、节日素材、客服时区、合规文案 |
+| 品牌资产清单 | Logo、色板、字体、产品图、视频、UGC、证书、媒体报道、创始人故事 |
+
+---
+
 ## 🔗 相关清单
+
+- [Next.js 外贸询盘 Starter](https://github.com/sasharun/nextjs-export-starter)
+- [独立站询盘转化清单](https://github.com/sasharun/dulizhan-inquiry-checklist)
 
 - [外贸建站资源大全](https://github.com/sasharun/awesome-waimao-jianzhan)
 - [外贸独立站资源大全](https://github.com/sasharun/awesome-waimao-dulizhan)
